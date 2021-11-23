@@ -7,8 +7,8 @@ const url = 'http://localhost:8080/productos';
 const urlModify = 'http://localhost:8080/productos/3';
 
 let producto = {
-    id: 11,
-    nombre: 'AMCF1 OFFICIAL TEAM POLO', 
+    id: 3,
+    nombre: 'Nombre del producto', 
     codigo: 1376, 
     precio: 65,
     stock: 5
